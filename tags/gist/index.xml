@@ -4,16 +4,16 @@
     <title>Gist on Nairpaa</title>
     <link>http://localhost:1313/tags/gist/</link>
     <description>Recent content in Gist on Nairpaa</description>
-    <generator>Hugo -- 0.147.2</generator>
+    <generator>Hugo -- 0.147.6</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 05 May 2025 17:57:48 +0700</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/gist/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hello World</title>
+      <title>Mengenal SSDLC</title>
       <link>http://localhost:1313/posts/hello-world/</link>
       <pubDate>Mon, 05 May 2025 17:57:48 +0700</pubDate>
       <guid>http://localhost:1313/posts/hello-world/</guid>
-      <description>Sample article showcasing basic code syntax and formatting for HTML elements.</description>
+      <description>Penjelasan Secure Software Development Life Cycle (SSDLC) dengan bahasa santai dan mudah dimengerti.</description>
     </item>
   </channel>
 </rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Cyber Security on Nairpaa</title>
+    <link>http://localhost:1313/categories/cyber-security/</link>
+    <description>Recent content in Cyber Security on Nairpaa</description>
+    <generator>Hugo -- 0.147.6</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 05 May 2025 17:57:48 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/cyber-security/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apa itu SSDLC?</title>
+      <link>http://localhost:1313/posts/hello-world/</link>
+      <pubDate>Mon, 05 May 2025 17:57:48 +0700</pubDate>
+      <guid>http://localhost:1313/posts/hello-world/</guid>
+      <description>Mengenal SSDLC dengan bahasa santai dan mudah dimengerti.</description>
+    </item>
+  </channel>
+</rss>

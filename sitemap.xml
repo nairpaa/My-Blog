@@ -2,20 +2,59 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://blog.nairpaa.me/posts/apa-itu-ssdlc/</loc>
+    <lastmod>2025-05-29T02:54:00+07:00</lastmod>
+  </url><url>
+    <loc>https://blog.nairpaa.me/categories/application-security/</loc>
+    <lastmod>2025-05-29T02:54:00+07:00</lastmod>
+  </url><url>
+    <loc>https://blog.nairpaa.me/tags/application-security/</loc>
+    <lastmod>2025-05-29T02:54:00+07:00</lastmod>
+  </url><url>
+    <loc>https://blog.nairpaa.me/series/application-security-guide/</loc>
+    <lastmod>2025-05-29T02:54:00+07:00</lastmod>
+  </url><url>
+    <loc>https://blog.nairpaa.me/categories/</loc>
+    <lastmod>2025-05-29T02:54:00+07:00</lastmod>
+  </url><url>
+    <loc>https://blog.nairpaa.me/tags/dast/</loc>
+    <lastmod>2025-05-29T02:54:00+07:00</lastmod>
+  </url><url>
     <loc>https://blog.nairpaa.me/</loc>
-    <lastmod>2025-05-05T17:57:48+07:00</lastmod>
+    <lastmod>2025-05-29T02:54:00+07:00</lastmod>
   </url><url>
     <loc>https://blog.nairpaa.me/posts/</loc>
-    <lastmod>2025-05-05T17:57:48+07:00</lastmod>
+    <lastmod>2025-05-29T02:54:00+07:00</lastmod>
+  </url><url>
+    <loc>https://blog.nairpaa.me/tags/sast/</loc>
+    <lastmod>2025-05-29T02:54:00+07:00</lastmod>
+  </url><url>
+    <loc>https://blog.nairpaa.me/tags/sca/</loc>
+    <lastmod>2025-05-29T02:54:00+07:00</lastmod>
+  </url><url>
+    <loc>https://blog.nairpaa.me/tags/sdlc/</loc>
+    <lastmod>2025-05-29T02:54:00+07:00</lastmod>
+  </url><url>
+    <loc>https://blog.nairpaa.me/tags/secure-coding/</loc>
+    <lastmod>2025-05-29T02:54:00+07:00</lastmod>
+  </url><url>
+    <loc>https://blog.nairpaa.me/series/</loc>
+    <lastmod>2025-05-29T02:54:00+07:00</lastmod>
+  </url><url>
+    <loc>https://blog.nairpaa.me/categories/software-development/</loc>
+    <lastmod>2025-05-29T02:54:00+07:00</lastmod>
+  </url><url>
+    <loc>https://blog.nairpaa.me/tags/ssdlc/</loc>
+    <lastmod>2025-05-29T02:54:00+07:00</lastmod>
+  </url><url>
+    <loc>https://blog.nairpaa.me/tags/</loc>
+    <lastmod>2025-05-29T02:54:00+07:00</lastmod>
+  </url><url>
+    <loc>https://blog.nairpaa.me/tags/threat-modeling/</loc>
+    <lastmod>2025-05-29T02:54:00+07:00</lastmod>
   </url><url>
     <loc>https://blog.nairpaa.me/archives/</loc>
   </url><url>
-    <loc>https://blog.nairpaa.me/categories/</loc>
-  </url><url>
     <loc>https://blog.nairpaa.me/search/</loc>
-  </url><url>
-    <loc>https://blog.nairpaa.me/series/</loc>
-  </url><url>
-    <loc>https://blog.nairpaa.me/tags/</loc>
   </url>
 </urlset>

@@ -4,9 +4,16 @@
     <title>Nairpaa</title>
     <link>https://blog.nairpaa.me/</link>
     <description>Recent content on Nairpaa</description>
-    <generator>Hugo -- 0.147.2</generator>
+    <generator>Hugo -- 0.147.6</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 May 2025 02:54:00 +0700</lastBuildDate>
     <atom:link href="https://blog.nairpaa.me/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apa itu SSDLC?</title>
+      <link>https://blog.nairpaa.me/posts/apa-itu-ssdlc/</link>
+      <pubDate>Thu, 29 May 2025 02:54:00 +0700</pubDate>
+      <guid>https://blog.nairpaa.me/posts/apa-itu-ssdlc/</guid>
+      <description>Mengenal SSDLC dengan bahasa santai dan mudah dimengerti.</description>
+    </item>
   </channel>
 </rss>

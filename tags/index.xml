@@ -4,8 +4,65 @@
     <title>Tags on Nairpaa</title>
     <link>https://blog.nairpaa.me/tags/</link>
     <description>Recent content in Tags on Nairpaa</description>
-    <generator>Hugo -- 0.147.2</generator>
+    <generator>Hugo -- 0.147.6</generator>
     <language>en-us</language>
+    <lastBuildDate>Thu, 29 May 2025 02:54:00 +0700</lastBuildDate>
     <atom:link href="https://blog.nairpaa.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Application Security</title>
+      <link>https://blog.nairpaa.me/tags/application-security/</link>
+      <pubDate>Thu, 29 May 2025 02:54:00 +0700</pubDate>
+      <guid>https://blog.nairpaa.me/tags/application-security/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DAST</title>
+      <link>https://blog.nairpaa.me/tags/dast/</link>
+      <pubDate>Thu, 29 May 2025 02:54:00 +0700</pubDate>
+      <guid>https://blog.nairpaa.me/tags/dast/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SAST</title>
+      <link>https://blog.nairpaa.me/tags/sast/</link>
+      <pubDate>Thu, 29 May 2025 02:54:00 +0700</pubDate>
+      <guid>https://blog.nairpaa.me/tags/sast/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SCA</title>
+      <link>https://blog.nairpaa.me/tags/sca/</link>
+      <pubDate>Thu, 29 May 2025 02:54:00 +0700</pubDate>
+      <guid>https://blog.nairpaa.me/tags/sca/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SDLC</title>
+      <link>https://blog.nairpaa.me/tags/sdlc/</link>
+      <pubDate>Thu, 29 May 2025 02:54:00 +0700</pubDate>
+      <guid>https://blog.nairpaa.me/tags/sdlc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Secure Coding</title>
+      <link>https://blog.nairpaa.me/tags/secure-coding/</link>
+      <pubDate>Thu, 29 May 2025 02:54:00 +0700</pubDate>
+      <guid>https://blog.nairpaa.me/tags/secure-coding/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SSDLC</title>
+      <link>https://blog.nairpaa.me/tags/ssdlc/</link>
+      <pubDate>Thu, 29 May 2025 02:54:00 +0700</pubDate>
+      <guid>https://blog.nairpaa.me/tags/ssdlc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Threat Modeling</title>
+      <link>https://blog.nairpaa.me/tags/threat-modeling/</link>
+      <pubDate>Thu, 29 May 2025 02:54:00 +0700</pubDate>
+      <guid>https://blog.nairpaa.me/tags/threat-modeling/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
