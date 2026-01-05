@@ -1,5 +1,5 @@
-
 User-agent: *
-Allow: /
 
-Sitemap: https://blog.nairpaa.me/sitemap-index.xml
+Disallow: /norobots/
+
+Sitemap: https://blog.nairpaa.me/sitemap.xml
